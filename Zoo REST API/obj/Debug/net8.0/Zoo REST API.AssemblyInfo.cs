@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zoo REST API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d2be02becbdb6d92948714687a584c00b7eda0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zoo REST API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zoo REST API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
