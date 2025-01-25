@@ -1,0 +1,34 @@
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\bin\Debug\net8.0\appsettings.json
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\bin\Debug\net8.0\Zoo REST API.staticwebassets.runtime.json
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\bin\Debug\net8.0\Zoo REST API.staticwebassets.endpoints.json
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\bin\Debug\net8.0\Zoo REST API.exe
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\bin\Debug\net8.0\Zoo REST API.deps.json
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\bin\Debug\net8.0\Zoo REST API.runtimeconfig.json
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\bin\Debug\net8.0\Zoo REST API.dll
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\bin\Debug\net8.0\Zoo REST API.pdb
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\Zoo REST API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\Zoo REST API.AssemblyInfoInputs.cache
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\Zoo REST API.AssemblyInfo.cs
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\Zoo REST API.csproj.CoreCompileInputs.cache
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\Zoo REST API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\Zoo REST API.RazorAssemblyInfo.cache
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\Zoo REST API.RazorAssemblyInfo.cs
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\scopedcss\bundle\Zoo REST API.styles.css
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\scopedcss\projectbundle\Zoo REST API.bundle.scp.css
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\staticwebassets\msbuild.Zoo REST API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\staticwebassets\msbuild.Zoo REST API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\staticwebassets\msbuild.build.Zoo REST API.props
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Zoo REST API.props
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Zoo REST API.props
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\Zoo REST API.dll
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\refint\Zoo REST API.dll
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\Zoo REST API.pdb
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\Zoo REST API.genruntimeconfig.cache
+D:\Projects\Special Project\Zoo Manager\Zoo REST API\Zoo REST API\obj\Debug\net8.0\ref\Zoo REST API.dll
